@@ -1,0 +1,2 @@
+names(poker_vector)<- c("Monday","Tuesday", "Wednesday", "Thursday","Friday")
+names(roulette_vector)<- c("Monday","Tuesday", "Wednesday", "Thursday","Friday")

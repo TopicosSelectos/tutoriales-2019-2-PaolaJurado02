@@ -1,0 +1,6 @@
+total_poker<- sum(poker_vector)
+total_poker
+total_roulette<- sum(roulette_vector)
+total_roulette
+total_week<- total_roulette + total_poker
+total_week
